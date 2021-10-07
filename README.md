@@ -5,8 +5,10 @@ Education Level to predict the developers salary in real-time. You can Predict t
 
 ## Preview
 
+<img src="https://user-images.githubusercontent.com/89919240/136431727-8ea15b87-feeb-4e9d-95fa-28e69e1d4a76.png" width="500" />
 
-  
+<img src="https://user-images.githubusercontent.com/89919240/136431737-33638d4b-7d0a-4e2b-b524-867bb32094ca.png" width="500" />
+
   
   ## Installation
 You need to install dependencies:
